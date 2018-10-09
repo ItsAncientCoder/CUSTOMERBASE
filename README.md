@@ -1,6 +1,6 @@
 # CUSTOMERBASE
 
-It is project with 
+Project with 
   express,
   express-graphql,
   graphql
